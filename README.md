@@ -2,7 +2,13 @@
 # ✨ Introduce ✨ 
 -  Hi, I’m **namsojeong**
 -  I dream of **developing a client**
--  - I have a badge from Unity Technologies (https://www.credly.com/badges/62ac46f3-7f99-4964-ae86-a34c37a0a356/public_url)
+
+# 👩‍💻I can!👩‍💻
+![unity-certified-associate-game-developer](https://user-images.githubusercontent.com/77655325/179970739-37fb59da-4122-4748-afd2-b809152db8a2.png)
+- Unity
+- C++
+- C#
+
 # 📫Connect Me 📫
 - Mail : **nsj050320@gmail.com**
 - Discord : **소정#4145**
