@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Namsojeong&fontSize=50)
-# ✨ I can!👩‍💻
+# ✨ Introduce ✨
+hello, I'm Namsojeong
+I'm aspiring to develop clients.
+
+# ✨ I'm Studying !👩‍💻
 ![unity-certified-associate-game-developer](https://user-images.githubusercontent.com/77655325/179970739-37fb59da-4122-4748-afd2-b809152db8a2.png)
 - Unity
 - C++
