@@ -21,7 +21,6 @@ I'm aspiring to develop clients.
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsj050320@gmail.com"/></a>
 
 # 🌱My Github 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine)
-[![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine) [![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
   
 </div>
