@@ -19,5 +19,5 @@ I'm aspiring to develop clients.
 - Youtube : https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg
 
 # 🌱My Github 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&layout=compact&theme=dark)
