@@ -19,8 +19,5 @@ I'm aspiring to develop clients.
 # 🌱My Github 🌱
 <a href="https://github.com/namsojeong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-![namsojeong's github stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true)
-[![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/namsojeong)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&layout=compact&theme=dark)
+[![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
