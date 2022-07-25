@@ -7,6 +7,9 @@ Hello, I'm Namsojeong
 
 I'm aspiring to develop clients.
 
+# 🎮 Projects 🎮
+https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
+
 # 👩‍💻 I'm Studying !👩‍💻
 ![unity-certified-associate-game-developer](https://user-images.githubusercontent.com/77655325/179970739-37fb59da-4122-4748-afd2-b809152db8a2.png)
  
