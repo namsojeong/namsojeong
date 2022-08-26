@@ -7,6 +7,9 @@ Hello, I'm Namsojeong
 
 My dream is to be a developer.
 Please contact me!
+  
+안녕하세요, 저는 남소정입니다.
+클라이언트 개발자가 꿈입니다.
 
 # 🎮 Projects 🎮
 https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
