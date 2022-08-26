@@ -5,7 +5,8 @@
 # ✨ Introduce ✨
 Hello, I'm Namsojeong
 
-I'm aspiring to develop clients.
+My dream is to be a developer.
+Please contact me!
 
 # 🎮 Projects 🎮
 https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
@@ -18,7 +19,7 @@ https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
 <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
  
 
-# 📫Connect Me 📫
+# 📫Contact Me 📫
 <img src="https://img.shields.io/badge/소정%234145-3766AB?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsj050320@gmail.com"/></a>
