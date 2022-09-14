@@ -23,6 +23,7 @@ https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
  
 
 # 📫Contact Me 📫
+<a href="http://ggm.gondr.net/user/profile/44" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <img src="https://img.shields.io/badge/소정%234145-3766AB?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsj050320@gmail.com"/></a>
