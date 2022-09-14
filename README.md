@@ -23,7 +23,7 @@ https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
  
 
 # 📫Contact Me 📫
-<a href="http://ggm.gondr.net/user/profile/44"><img src="https://img.shields.io/badge/GitHub Sponsors-#EA4AAA?style=for-the-badge=Portpolio&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
+
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Mail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsj050320@gmail.com"/></a>
 
