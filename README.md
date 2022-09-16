@@ -11,7 +11,7 @@ Please contact me!
 안녕하세요, 저는 남소정입니다.
 클라이언트 개발자가 꿈입니다.
 
-# 👩‍💻 I'm Studying !👩‍💻
+# 👩‍💻 I'm Studying 👩‍💻
 ![unity-certified-associate-game-developer](https://user-images.githubusercontent.com/77655325/179970739-37fb59da-4122-4748-afd2-b809152db8a2.png)
  
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white"/>
