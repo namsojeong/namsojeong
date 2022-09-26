@@ -20,13 +20,13 @@ Please contact me!
 
 # 🎮 Projects 🎮
 https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6
- 
-# 🌱My Github 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine) [![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
 
 # 📫Contact Me 📫
 <a href="http://ggm.gondr.net/user/profile/44"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=http://ggm.gondr.net/user/profile/44"/></a>
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsj050320@gmail.com"/></a>
+
+# 🌱My Github 🌱
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine) [![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
 
 </div>
