@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 # 🎮 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 🎮
-  <a href="[http://ggm.gondr.net/user/profile/44](https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6)"><img src="https://img.shields.io/badge/PROJECT-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=http://ggm.gondr.net/user/profile/44"/></a>
+  <a href="https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6"><img src="https://img.shields.io/badge/PROJECT-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=[http://ggm.gondr.net/user/profile/44](https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6)"/></a>
   <a href="http://ggm.gondr.net/user/profile/44"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=http://ggm.gondr.net/user/profile/44"/></a>
   
   
