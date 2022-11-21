@@ -19,7 +19,7 @@
 # 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 📫
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsj050320@gmail.com"/></a>
-<img src="https://img.shields.io/badge/소정//4145-5865F2?style=flat-square&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/소정4145-5865F2?style=flat-square&logo=Discord&logoColor=white">
   
   
 # 👓 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 👓
