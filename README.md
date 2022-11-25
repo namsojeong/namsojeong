@@ -5,8 +5,8 @@
 # 👩‍💻 𝐈'𝐦 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 👩‍💻
  
  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 # 🎮 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 🎮
   <a href="https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6"><img src="https://img.shields.io/badge/PROJECT-000000?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=[http://ggm.gondr.net/user/profile/44](https://www.notion.so/namsojeong/dccda0d2e5da44c08db478301365e3d6)"/></a>
