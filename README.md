@@ -1,7 +1,8 @@
+
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Namsojeong&fontSize=70)
-
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&fontcolor=auto&color=auto&height=150&text=Hello!&desc=I'm%20Namsojeong&descAlignY=73&descSize=25&fontSize=60)
+  
 # 👩‍💻 𝐈'𝐦 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 👩‍💻
  
  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
@@ -27,6 +28,5 @@
   
 # 🌱 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 🌱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine) [![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
-
-
+  
 </div>
