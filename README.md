@@ -17,7 +17,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
   
 # 🌱 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=rose_pine) [![namsojeong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=namsojeong&show_icons=true&hide_border=true&title_color=000000&icon_color=004386&layout=compact)](https://github.com/namsojeong)
   
 # 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 📫
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
