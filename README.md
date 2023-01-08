@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&fontcolor=auto&color=auto&height=150&text=Nice%20to%20meet%20you&desc=I'm%20Namsojeong&descAlignY=73&descSize=25&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&fontcolor=auto&color=auto&height=150&text=Game%20Developer&desc=I'm%20Namsojeong&descAlignY=73&descSize=25&fontSize=60)
   
 # 👩‍💻 𝐈'𝐦 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 👩‍💻
  
