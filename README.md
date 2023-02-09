@@ -24,4 +24,5 @@
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsj050320@gmail.com"/></a>
 <img src="https://img.shields.io/badge/소정4145-5865F2?style=flat-square&logo=Discord&logoColor=white">
  
+ 
 </div>
