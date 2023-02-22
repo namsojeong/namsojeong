@@ -17,7 +17,6 @@
   
 # 🌱 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 🌱
 [![namsojeong's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=namsojeong&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  
  
 # 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 📫
 <a href="https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6gZYksUCK94g2Rd7tt2sAg"/></a> 
