@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&fontcolor=auto&color=auto&height=150&text=Game%20Developer&desc=I'm%20Namsojeong&descAlignY=73&descSize=25&fontSize=60)
 # 👩‍💻 Technology 👩‍💻
+
  
  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
