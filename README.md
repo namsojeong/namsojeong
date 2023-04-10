@@ -1,6 +1,5 @@
 <div align="center">
  
- 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&fontcolor=auto&color=auto&height=150&text=Game%20Developer&desc=I'm%20Namsojeong&descAlignY=73&descSize=25&fontSize=60)
 # 👩‍💻 Technology 👩‍💻
  
