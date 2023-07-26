@@ -26,9 +26,7 @@
 <br>
 .
 <br>
-외 3개
-<br>
-
 [ **정보처리기능사 자격증** ] <br>
 [ **Unity** Associate **게임개발자 자격증** ]<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
