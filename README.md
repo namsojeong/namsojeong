@@ -16,15 +16,15 @@
 
 ## 🏆𝐌𝐲 𝐜𝐚𝐫𝐞𝐞𝐫🏆
 
-[ **STAC 스마틴 앱 챌린지** 엔터테이먼트 부문 ]  **최우수상** <br>
-[ **부천대 컨소시엄** <제 3회 전국 고교생 대상 콘텐츠 경진대회> ] **은상** <br>
+[ STAC 스마틴 앱 챌린지 엔터테이먼트 부문 ]  **최우수상** <br>
+[ 부천대 컨소시엄 <제 3회 전국 고교생 대상 콘텐츠 경진대회> ] **은상** <br>
 .
 <br>
 .
 <br>
 .
 <br>
-[ **정보처리기능사 자격증** ] <br>
-[ **Unity** Associate **게임개발자 자격증** ]<br>
+[ 정보처리기능사 자격증 ] <br>
+[ Unity Associate 게임개발자 자격증 ]<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
