@@ -13,7 +13,7 @@
 **Computer Language**          
 | Skill | Level |
 |---|:---:|
-| C++ | ⭐⭐⭐ |
+| `C++` | ⭐⭐⭐ |
 | `C#` | ⭐⭐⭐ |
 
 ***
