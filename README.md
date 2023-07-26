@@ -50,20 +50,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
 <br><br>
 
-- - -
-
-##  🤝**그 외 값진 경험들**🤝
-<br>
-
-딜리셔스 게임즈 **산학협약 프로젝트**
-<br><br>
-2022 **지스타 부스** 운영
-<br>
-
-등등...
-
-<br>
-
-<img src="https://i.ibb.co/fdM4Cdz/Kakao-Talk-20230315-080107724-03.jpg" alt="Kakao-Talk-20230315-080107724-03" width="200" height="200">
-
 </div>
