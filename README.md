@@ -4,17 +4,27 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)<br>
 
-**Tool**                            **Computer Language**
-- Unity ⭐⭐⭐⭐                   - C++ ⭐⭐⭐
-- Git   ⭐⭐                        - C#  ⭐⭐⭐
+**Tool**
+- Unity ⭐⭐⭐⭐
+- Git   ⭐⭐
 
+**Computer Language**          
+- C++ ⭐⭐⭐
+- C#  ⭐⭐⭐
+  
+| AAA(기본왼쪽정렬) | BBB(가운데정렬) | CCC(오른쪽정렬) |
+|---|:---:|---:|
+| `111` | 가나다라 | abc |
+| `222` | 가나다라마바사아 | abcdefgh |
+| `333` | 가나다라마바사아자차카타파하 | abcdef |
+| `444` | 가나다라마바사아자차 | abc |
 
-  | AAA(기본왼쪽정렬) | BBB(가운데정렬) | CCC(오른쪽정렬) |
-  |---|:---:|---:|
-  | `111` | 가나다라 | abc |
-  | `222` | 가나다라마바사아 | abcdefgh |
-  | `333` | 가나다라마바사아자차카타파하 | abcdef |
-  | `444` | 가나다라마바사아자차 | abc |
+| AAA(기본왼쪽정렬) | BBB(가운데정렬) | CCC(오른쪽정렬) |
+|---|:---:|---:|
+| `111` | 가나다라 | abc |
+| `222` | 가나다라마바사아 | abcdefgh |
+| `333` | 가나다라마바사아자차카타파하 | abcdef |
+| `444` | 가나다라마바사아자차 | abc |
 
 ***
 
