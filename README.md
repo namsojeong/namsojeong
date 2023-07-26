@@ -4,12 +4,12 @@
 
  
 **Tool**
-| Skill | Level |
+| Tool | Level |
 |---|:---:|
 | `Unity` | ⭐⭐⭐⭐ |
-| `Git` | ⭐⭐ |       
-| Skill | Level |
+| `Git` | ⭐⭐ |
 |---|:---:|
+| Computer Language | Level |
 | `C++` | ⭐⭐⭐ |
 | `C#` | ⭐⭐⭐ |
 
