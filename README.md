@@ -1,15 +1,6 @@
 <div align="center">
  
 # 🤗 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐞 🤗
-
-<br>
-
-##### **나를 표현하는 키워드** <br>
-　　<img src="https://i.ibb.co/ZWTGtSp/chat.png" alt="chat" width="100" height="100">　
-<img src="https://i.ibb.co/VWBxGH1/Kakao-Talk-20230315-080107724.jpg" alt="Kakao-Talk-20230315-080107724" width="120" height="100">　
-<img src="https://i.ibb.co/t8JhHcL/business-6802909-1280.png" alt="business-6802909-1280" width="140" height="100"><br>
-**경청** 　　　　　　　 **책임감** 　　　　　　 **성장곡선**<br>
-
 <br>
 <br>
 
