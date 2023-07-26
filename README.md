@@ -1,6 +1,5 @@
 
 # 📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 📫
-<br>
 <a href="mailto:nsj050320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nsj050320@gmail.com"/></a>
 
 **>** [Blog](https://nsj050320.tistory.com) : 알고리즘 문제들과 제가 겪은 소스트리, 깃 에러들을 정리하였습니다.<br>
