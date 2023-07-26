@@ -7,9 +7,7 @@
 | Skill | Level |
 |---|:---:|
 | `Unity` | ⭐⭐⭐⭐ |
-| `Git` | ⭐⭐ |
-
-**Computer Language**          
+| `Git` | ⭐⭐ |       
 | Skill | Level |
 |---|:---:|
 | `C++` | ⭐⭐⭐ |
