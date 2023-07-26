@@ -4,13 +4,12 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)<br>
 
-**Tool**
-- Unity ⭐⭐⭐⭐
-- Git   ⭐⭐
+**Tool**                            **Computer Language**
+- Unity ⭐⭐⭐⭐                   - C++ ⭐⭐⭐
+- Git   ⭐⭐                        - C#  ⭐⭐⭐
 
-**Computer Language**
-- C++ ⭐⭐⭐
-- C#  ⭐⭐⭐
+
+
 
 
 ***
