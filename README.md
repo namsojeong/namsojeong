@@ -10,7 +10,9 @@
 | Computer Language | Level |
 | `C++` | ⭐⭐⭐ |
 | `C#` | ⭐⭐⭐ |
-
+ 
+ // [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
+ 
 ***
 
 ## 🎮 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
