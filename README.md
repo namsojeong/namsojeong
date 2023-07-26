@@ -10,7 +10,7 @@
 <br>
 <br>
 
-### 🛠 𝐒𝐭𝐚𝐜𝐤𝐬 🛠
+## 🛠 𝐒𝐭𝐚𝐜𝐤𝐬 🛠
 
  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
@@ -27,7 +27,7 @@
 
 <br>
 
-### 🏆𝐌𝐲 𝐜𝐚𝐫𝐞𝐞𝐫🏆
+## 🏆𝐌𝐲 𝐜𝐚𝐫𝐞𝐞𝐫🏆
  <br/>
 
 [ **STAC 스마틴 앱 챌린지** 엔터테이먼트 부문 ]  **최우수상** <br/>
@@ -52,7 +52,7 @@
 
 - - -
 
-###  🤝**그 외 값진 경험들**🤝
+##  🤝**그 외 값진 경험들**🤝
 <br>
 
 딜리셔스 게임즈 **산학협약 프로젝트**
