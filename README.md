@@ -1,5 +1,4 @@
-<div align="center">
- 
+
 # 🤗 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐞 🤗
 <br>
 <br>
@@ -49,5 +48,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nsj050320)](https://solved.ac/nsj050320/)
 <br><br>
-
-</div>
