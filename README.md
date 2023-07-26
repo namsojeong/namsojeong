@@ -1,6 +1,5 @@
 # 🤗 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐞 🤗
 > 👉 nsj050320@gmail.com
-
 <br>
 
 **>** [Blog](https://nsj050320.tistory.com) : 알고리즘 문제들과 제가 겪은 소스트리, 깃 에러들을 정리하였습니다.<br>
@@ -9,8 +8,6 @@
 ## 🛠 𝐒𝐭𝐚𝐜𝐤𝐬 🛠
  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white"><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<br>
-
 <br>
 
 **>** 이외에도 C언어, Python, 등의 언어들을 알고리즘 및 책을 통해 학습하였습니다.<br>
