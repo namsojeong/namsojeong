@@ -1,7 +1,5 @@
 <div align="center">
-# Game Developer
-
-### 🤗 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐞 🤗
+# 🤗 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐞 🤗
 
 <br>
 
