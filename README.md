@@ -4,7 +4,7 @@
 <br>
 
 **>** [Blog](https://nsj050320.tistory.com) : 알고리즘 문제들과 제가 겪은 소스트리, 깃 에러들을 정리하였습니다.<br>
-**>** [Website](https://namsojeong.notion.site/7f0458df2aa844389355cbafa409a846?pvs=4)에 더 많고 더 자세한 저의 **성장과정 포트폴리오**가 준비되어 있습니다<br>
+**>** [Notion](https://namsojeong.notion.site/7f0458df2aa844389355cbafa409a846?pvs=4) : 더 많고 더 자세한 저의 **성장과정 포트폴리오**가 준비되어 있습니다<br>
 <br>
 <br>
 
